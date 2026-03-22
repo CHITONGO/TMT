@@ -1,0 +1,7 @@
+# Wait 60 seconds before connecting using these details, or login to https://console.neo4j.io to validate the Aura Instance is available
+NEO4J_URI=neo4j+s://418da19b.databases.neo4j.io
+NEO4J_USERNAME=418da19b
+NEO4J_PASSWORD=O_nC4tGYX_8a7pvCuS21vXl8eV__unU8-q6NjmgwCTM
+NEO4J_DATABASE=418da19b
+AURA_INSTANCEID=418da19b
+AURA_INSTANCENAME=ZeitfondsDB

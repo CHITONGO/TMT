@@ -1,0 +1,6 @@
+@Zeitfonds_HostAddress = http://localhost:5275
+
+GET {{Zeitfonds_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

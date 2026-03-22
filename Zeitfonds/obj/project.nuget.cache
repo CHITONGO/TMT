@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOmHTUVP4hs=",
+  "success": true,
+  "projectFilePath": "C:\\CHITO\\Code_Unity\\TMT\\Zeitfonds\\Zeitfonds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lecoo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Lecoo\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lecoo\\.nuget\\packages\\neo4j.driver\\6.0.0\\neo4j.driver.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

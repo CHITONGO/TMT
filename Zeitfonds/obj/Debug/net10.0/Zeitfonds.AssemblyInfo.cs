@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zeitfonds")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1ecd829dcdb5238f16c4b034b5850af015f71ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cb9c4e56eea9a3351de487c55a3374a598af39f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zeitfonds")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zeitfonds")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
